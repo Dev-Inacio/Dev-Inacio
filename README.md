@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Dev-Inacio/Dev-Inacio/output/snake.svg" alt="Snake animation" />
+
 
 ###

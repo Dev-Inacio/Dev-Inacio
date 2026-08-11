@@ -1,65 +1,63 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+# José Inácio
+### QA | Testes Manuais | API | Playwright
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-inaciojose-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inaciojose/)
+[![Email](https://img.shields.io/badge/Email-joseinacio0398%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joseinacio0398@gmail.com)
+
+João Pessoa, PB · Remoto
+
 </div>
 
-###
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/inaciojose/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="joseinacio0398@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
+## Sobre mim
 
-###
+Analista de Sistemas com foco em Qualidade de Software, atuando com testes manuais e automatizados. Tenho experiência prática na execução de testes funcionais e de regressão, testes de API (Postman, REST/JSON) e validação de dados via SQL, atuando em ambiente ágil com Scrum e Kanban.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dev-Inacio.Dev-Inacio&"  />
-</div>
+Escrevo casos de teste com base em critérios de aceitação e requisitos funcionais e não funcionais, e venho evoluindo em automação com Playwright, aplicando boas práticas como Page Object Model e integração contínua (CI/CD).
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+## Áreas de atuação
 
-###
+- **Testes Manuais** — funcionais, de regressão, exploratórios
+- **Testes de API** — Postman, REST, JSON, validação de integrações
+- **Automação** — Playwright (TypeScript), Cypress
+- **Validação de Dados** — SQL, apoio à identificação de inconsistências
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+## Stack principal
 
-<p align="left"># Olá, eu sou José Inácio! 👋<br><br>
-### 🎯 Analista de Qualidade de Software | QA Engineer<br><br>Sou um profissional de QA apaixonado por qualidade e automação de testes, com 2 anos de experiência na área. João Pessoa, PB 🌴<br><br>---<br><br>## 🧪 Experiência em Testes<br><br>- ✅ Testes Unitários — C# (xUnit) e JavaScript (Vitest)<br><br>- ✅ Testes de Integração — APIs REST com xUnit e FluentAssertions<br><br>- ✅ Testes E2E — Playwright com TypeScript<br><br>- ✅ Pirâmide de Testes — Estratégia e implementação completa<br><br>- ✅ Documentação de Bugs e Relatórios de Qualidade<br><br>---<br><br>## 🎓 Formação<br><br>**Análise e Desenvolvimento de Sistemas** — Concluído em Dezembro/2024<br><br>---<br><br>> *"Qualidade não é um ato, é um hábito."* — Aristóteles</p>
+**QA / Testes**
+`Testes Manuais` `Testes Funcionais` `Testes de Regressão` `Testes Exploratórios` `Testes de API` `Playwright` `Cypress`
 
-###
+**API / Dados**
+`Postman` `REST API` `JSON` `SQL`
 
-<h3 align="left">🛠 Language and tools</h3>
+**Metodologias e Ferramentas**
+`Scrum` `Kanban` `BDD` `Gherkin` `Cucumber` `Git` `GitLab` `Jira` `Azure DevOps` `CI/CD`
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+## Formação
 
-###
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** — Universidade Cruzeiro do Sul (Fev/2023 – Dez/2024)
+- **Full Stack Java Jr.** — MaisPraTi + Codifica (2024)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+## Projetos de QA
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Dev-Inacio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+Estou construindo progressivamente um portfólio público de testes manuais, testes de API e automação. Novos projetos serão adicionados regularmente.
 
-###
+- [`playwright-e2e-saucedemo`](https://github.com/Dev-Inacio/playwright-e2e-saucedemo) — Suíte de testes E2E com Playwright + TypeScript, seguindo Page Object Model, com pipeline de CI/CD via GitHub Actions.
+
+---
+
+## Contato
+
+- **LinkedIn:** [linkedin.com/in/inaciojose](https://www.linkedin.com/in/inaciojose/)
+- **E-mail:** joseinacio0398@gmail.com

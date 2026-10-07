@@ -1,7 +1,7 @@
 <div align="center">
 # José Inácio
  
-### Desenvolvedor Backend Júnior · Java · Spring Boot · APIs REST
+### Desenvolvedor Backend · Java · Spring Boot · APIs REST
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-inaciojose-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inaciojose/)
 [![Email](https://img.shields.io/badge/Email-joseinacio.Dev%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joseinacio.Dev@gmail.com)
